@@ -48,7 +48,7 @@
 <body>
 
 <header>
-  <span class="brand"><span class="ph">[BOT NAME]</span></span>
+  <span class="brand"><span class="ph">Tickify</span></span>
   <a href="#terms">Terms of Service</a>
   <a href="#privacy">Privacy Policy</a>
   <a href="https://discord.com" target="_blank" rel="noopener">Discord</a>
@@ -62,7 +62,7 @@
   <p class="meta">Effective Date: October 17, 2026</p>
 
   <h2>1. Acceptance of Terms</h2>
-  <p>By inviting, accessing, or using <span class="ph">[BOT NAME]</span> (“the Service”) in any Discord server, or by opening a ticket through it, you agree to be bound by these Terms of Service. Server owners and administrators who add the Service to a server accept these terms on behalf of that server. If you do not agree with any part of these terms, you must not use or interact with the Service.</p>
+  <p>By inviting, accessing, or using <span class="ph">Tickify</span> (“the Service”) in any Discord server, or by opening a ticket through it, you agree to be bound by these Terms of Service. Server owners and administrators who add the Service to a server accept these terms on behalf of that server. If you do not agree with any part of these terms, you must not use or interact with the Service.</p>
 
   <h2>2. Compliance with Discord</h2>
   <p>You must comply at all times with the <a href="https://discord.com/terms" target="_blank" rel="noopener">Discord Terms of Service</a>, the <a href="https://discord.com/guidelines" target="_blank" rel="noopener">Discord Community Guidelines</a>, and the Discord Developer Policy, including Discord’s minimum age requirement. Any attempt to use the Service to break Discord’s platform rules is strictly prohibited.</p>
@@ -119,7 +119,7 @@
   <p>We may modify these Terms of Service at any time. Changes take effect when they are posted on this page. Continued use of the Service after any change means you accept the updated terms.</p>
 
   <h2>11. Contact &amp; Inquiries</h2>
-  <p>If you have questions about these terms, please contact us through the support server or the bot owner: <span class="ph">[SUPPORT SERVER INVITE LINK]</span> or <span class="ph">[OWNER DISCORD USERNAME]</span>.</p>
+  <p>If you have questions about these terms, please contact us through the support server or the bot owner: <span class="ph">Discord.gg/Coolbeans</span> or <span class="ph">@Trifqq </span>.</p>
 </section>
 
 <!-- ============================ PRIVACY POLICY ============================ -->
@@ -128,7 +128,7 @@
   <p class="meta">Effective Date: October 17, 2026</p>
 
   <h2>1. Overview</h2>
-  <p>This Privacy Policy explains what information <span class="ph">[BOT NAME]</span> (“we”, “us”, or “the Service”) collects, how it is used, and how it is protected when you interact with the bot in Discord. We follow the Discord Developer Policy and collect only what is needed to run a ticket system.</p>
+  <p>This Privacy Policy explains what information <span class="ph">Tickify</span> (“we”, “us”, or “the Service”) collects, how it is used, and how it is protected when you interact with the bot in Discord. We follow the Discord Developer Policy and collect only what is needed to run a ticket system.</p>
 
   <h2>2. Information We Collect</h2>
   <p>The Service stores the following operational data:</p>
