@@ -121,12 +121,12 @@
   <p>You may ask to see, correct, or permanently delete any information the Service holds about you or your server. To make a request, contact us using the details below. Verified requests are carried out within 30 days.</p>
 
   <h2>8. Contact Us</h2>
-  <p>For questions about this policy or your data, contact us through the support server or the bot owner: <span class="ph">[SUPPORT SERVER INVITE LINK]</span> or <span class="ph">[OWNER DISCORD USERNAME]</span>.</p>
+  <p>For questions about this policy or your data, contact us through the support server or the bot owner: <span class="ph">discord.gg/coolbeans</span> or <span class="ph">@Trifqq</span>.</p>
 </section>
 
 </main>
 
-<footer>© 2026 <span class="ph">[BOT NAME]</span>. Not affiliated with or endorsed by Discord Inc.</footer>
+<footer>© 2026 <span class="ph">Tickify</span>. Not affiliated with or endorsed by Discord Inc.</footer>
 
 </body>
 </html>
